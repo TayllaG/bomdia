@@ -1,0 +1,15 @@
+C:\Users\tayll\source\repos\bomdia\bomdia\bin\Debug\net6.0\bomdia.exe
+C:\Users\tayll\source\repos\bomdia\bomdia\bin\Debug\net6.0\bomdia.deps.json
+C:\Users\tayll\source\repos\bomdia\bomdia\bin\Debug\net6.0\bomdia.runtimeconfig.json
+C:\Users\tayll\source\repos\bomdia\bomdia\bin\Debug\net6.0\bomdia.dll
+C:\Users\tayll\source\repos\bomdia\bomdia\bin\Debug\net6.0\bomdia.pdb
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.csproj.AssemblyReference.cache
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.AssemblyInfoInputs.cache
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.AssemblyInfo.cs
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.csproj.CoreCompileInputs.cache
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.dll
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\refint\bomdia.dll
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.pdb
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\bomdia.genruntimeconfig.cache
+C:\Users\tayll\source\repos\bomdia\bomdia\obj\Debug\net6.0\ref\bomdia.dll
